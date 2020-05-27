@@ -1,0 +1,112 @@
+html
+{
+height: 100%;
+}
+body,ul,li,p
+{
+margin: 0px;
+padding: 0px;
+font-size: 1.2rem;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.header
+{
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+}
+.menu{
+    display: flex;
+}
+.menu li{
+    list-style: none;
+    margin-left: 10px;
+}
+
+.logo{
+    max-width:100px;
+}
+
+.banner img{ 
+    margin: 0px;
+    padding: 0px;
+    max-width: max-content;
+    display: block; margin: 0 auto; 
+}
+
+.texto_principal{
+    background: #e4e3e3; padding: 20px; margin-bottom: 20px; margin-top: 20px;
+}
+.propag{
+    text-align: center;
+    
+}
+.texto_principal h1{ color: teal;
+}
+
+.card_area img{
+    width: 100%;
+}
+.card1{
+  background-image: url(imgs/will.jpg);
+  background-size: 18rem;
+  background-repeat: no-repeat;
+  border: solid 2px;
+}
+.card2{
+    background-image: url(imgs/ted-logo.png);
+    background-size: 18rem;
+    background-repeat: no-repeat;
+    border: solid 2px;
+  }
+  .card3{
+    background-image: url(imgs/mark.jpg);
+    background-size: 18rem;
+    background-repeat: no-repeat;
+    border: solid 2px;
+  }
+.card_area{
+    padding: 10px;
+   padding-left: 150px;}
+
+.infos{ margin-top: 20px;}
+h1,h3{ font-size: 1.0em; text-align: center;}
+
+h5{
+    text-align: center;
+    color: white;
+    font-size: 1.0rem;
+}
+h6{
+    font-size: 1.0rem;
+    text-align: center;
+    color: black;
+    
+}
+
+.parag{font-size: 1.0rem;}
+
+.eu{width: 300px;}
+
+.grid_cor2{ background: white; padding: 10px; width: 100%; height:max-content; margin-bottom: 20px;}
+
+.grid_cor2 img{ width: 100%;}
+
+.grid_cor2 p{font-size: 1.0em;}
+
+.footer{
+    background: black;
+    color: white;
+    padding: 20px;
+   height: 50px;
+}
