@@ -58,7 +58,7 @@ font-family: Arial, Helvetica, sans-serif;
     width: 100%;
 }
 .card1{
-  background-image: will.jpg;
+  background-image: mark.jpg;
   background-size: 18rem;
   background-repeat: no-repeat;
   border: solid 2px;
@@ -70,7 +70,7 @@ font-family: Arial, Helvetica, sans-serif;
     border: solid 2px;
   }
   .card3{
-    background-image: mark.jpg;
+    background-image: will.jpg;
     background-size: 18rem;
     background-repeat: no-repeat;
     border: solid 2px;
