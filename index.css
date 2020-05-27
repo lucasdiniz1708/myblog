@@ -58,7 +58,7 @@ font-family: Arial, Helvetica, sans-serif;
     width: 100%;
 }
 .card1{
-  background-image: url(will.jpg);
+  background-image: will.jpg;
   background-size: 18rem;
   background-repeat: no-repeat;
   border: solid 2px;
