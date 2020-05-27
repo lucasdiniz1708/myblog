@@ -58,20 +58,20 @@ font-family: Arial, Helvetica, sans-serif;
     width: 100%;
 }
 .card1{
-  background-image: mark.jpg;
-  background-size: 18rem;
+  background-image: will.jpg;
+  background-size: 20rem;
   background-repeat: no-repeat;
   border: solid 2px;
 }
 .card2{
     background-image: ted-logo.png;
-    background-size: 18rem;
+    background-size: 20rem;
     background-repeat: no-repeat;
     border: solid 2px;
   }
   .card3{
-    background-image: will.jpg;
-    background-size: 18rem;
+    background-image: mark.jpg;
+    background-size: 20rem;
     background-repeat: no-repeat;
     border: solid 2px;
   }
